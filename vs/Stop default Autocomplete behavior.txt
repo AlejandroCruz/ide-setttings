@@ -1,0 +1,9 @@
+# Stop default Autocomplete behavior when hitting [key] in Visual Studio
+
+Edit -> Intellisense -> Toggle Completion Mode
+
+From : https://msdn.microsoft.com/en-us/library/hcw1s69b.aspx
+
+"You can also change to suggestion mode, in which only the text you type is inserted into the code. For example, if you enter an identifier that is not in the list and press TAB, in completion mode the entry would replace the typed identifier. To toggle between completion mode and suggestion mode, press CTRL+ALT+SPACEBAR or click Edit/IntelliSense/Toggle Completion Mode."
+
+ref: https://stackoverflow.com/questions/32301586/stop-default-autocomplete-behavior-when-hitting-spacebar-in-visual-studio-2015
